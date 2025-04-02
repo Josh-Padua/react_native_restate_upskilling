@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb08784-26aa-414a-b912-b3a9f6567566" name="Changes" comment="Initial Git Commit from 25.03.25&#10;- Login functionality with google&#10;- Profile page UI completed">
-      <change afterPath="$PROJECT_DIR$/components/Cards.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Filters.tsx" afterDir="false" />
+    <list default="true" id="deb08784-26aa-414a-b912-b3a9f6567566" name="Changes" comment="HomeScreen Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +23,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Josh-Padua"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Josh-Padua&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Josh-Padua/react_native_restate_upskilling.git",
-    "accountId": "eb3312c2-d49a-4fa9-b221-57647e99e9c8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Josh-Padua/react_native_restate_upskilling.git&quot;,
+    &quot;accountId&quot;: &quot;eb3312c2-d49a-4fa9-b221-57647e99e9c8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -84,6 +85,8 @@
       <workItem from="1742893438912" duration="3280000" />
       <workItem from="1742897585385" duration="2041000" />
       <workItem from="1743315899594" duration="765000" />
+      <workItem from="1743576290321" duration="1266000" />
+      <workItem from="1743577603771" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git Commit from 25.03.25&#10;- Login functionality with google&#10;- Profile page UI completed">
       <option name="closed" value="true" />
@@ -101,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743318004960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HomeScreen Added">
+      <option name="closed" value="true" />
+      <created>1743324907720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743324907720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Git Commit from 25.03.25&#10;- Login functionality with google&#10;- Profile page UI completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Git Commit from 25.03.25&#10;- Login functionality with google&#10;- Profile page UI completed" />
+    <MESSAGE value="HomeScreen Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeScreen Added" />
   </component>
 </project>
