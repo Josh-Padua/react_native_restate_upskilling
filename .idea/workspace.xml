@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb08784-26aa-414a-b912-b3a9f6567566" name="Changes" comment="HomeScreen Swipability Added">
+    <list default="true" id="deb08784-26aa-414a-b912-b3a9f6567566" name="Changes" comment="Search function + data populated using a seeder">
       <change afterPath="$PROJECT_DIR$/components/noResults.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/data.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/seed.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/(tabs)/explore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tabs)/explore.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tabs)/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Cards.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Filters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Filters.tsx" afterDir="false" />
@@ -93,7 +94,7 @@
       <workItem from="1742897585385" duration="2041000" />
       <workItem from="1743315899594" duration="765000" />
       <workItem from="1743576290321" duration="1266000" />
-      <workItem from="1743577603771" duration="6476000" />
+      <workItem from="1743577603771" duration="8176000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Git Commit from 25.03.25&#10;- Login functionality with google&#10;- Profile page UI completed">
       <option name="closed" value="true" />
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743578677914</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Search function + data populated using a seeder">
+      <option name="closed" value="true" />
+      <created>1743640339660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743640339660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +146,7 @@
     <MESSAGE value="Initial Git Commit from 25.03.25&#10;- Login functionality with google&#10;- Profile page UI completed" />
     <MESSAGE value="HomeScreen Added" />
     <MESSAGE value="HomeScreen Swipability Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeScreen Swipability Added" />
+    <MESSAGE value="Search function + data populated using a seeder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search function + data populated using a seeder" />
   </component>
 </project>
